@@ -1,8 +1,7 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Review Microverse Trial Project
 
-# Hello-Microverse
-
-This project is to demonstrate the ability to be a code reviewer
+The Microverse trial project describes the life of Dr Norman Borlaug. The goal of a code reviewer.
+Find all requirements for the project on this link: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/review_your_project.md
 
 ## Built With
 - HTML
